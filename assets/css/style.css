@@ -17,26 +17,75 @@ body {
 
 /* Header */
 header {
-    background-color: #A25B5B;
-    padding: 0 1rem;
+    background-color: #F8ECD1;
+    padding: 0 0.5rem;
     position: fixed;
     z-index: 55;
     width: 100%;
-    box-shadow: 0 10px 10px #000000;
+    box-shadow: 0 10px 10px #494545;
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+     
 }
 
 h1 {
+    font-family: "Josefin Sans", sans-serif;
+    color: #85586F;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    padding-top: 5px;
+
+}
+
+nav {
+    position: absolute;
+    background-color: #f0d39e;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 10px 10px #494545;
+
+
+}
+
+#menu, .drop-button {
+    padding-top: 0.5em;
+    font-size: 105%;
+    letter-spacing: 4px;
+    list-style-type: none;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+#menu > li {
+    margin-bottom: 0.5em;
+    
+
+}
+
+#menu > li :hover{
+    background-color: #85586fb4;
+    transition: 0.8s;
+
+}
+
+.drop-button {
+    background-color: #f0d39e;
+    border: none;
     font-family: "Josefin Sans", sans-serif;
 }
 
 /* Main */
 main {
-    background-color:  #809A6F;
+    background-color: #DEB6AB;
  /* To push footer down */
     flex: 1 0 auto;
 }
 
 /* Footer */
 footer {
-    background-color: #CC9C75;
+    background-color: #AC7D88;
 }
