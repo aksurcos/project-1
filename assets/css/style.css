@@ -48,35 +48,39 @@ nav {
     left: 0;
     padding: 0 1rem;
     box-shadow: 0 10px 10px #494545;
+    margin-top:0;
 
 
 }
 
-#menu, .drop-button {
+#menu {
     padding-top: 0.5em;
-    font-size: 105%;
-    letter-spacing: 4px;
+    font-size: 130%;
+    letter-spacing: 3px;    
     list-style-type: none;
     font-family: "Josefin Sans", sans-serif;
+    display: flex;
+    flex-direction: row;
 }
 
 #menu > li {
     margin-bottom: 0.5em;
-    
-
-}
+    padding-right:1em;
+    }
 
 #menu > li :hover{
     background-color: #85586fb4;
-    transition: 0.8s;
+    transition: 0.7s;
+}
+
+/* Dropdown Content */
+
+.services { 
+    display: none;
 
 }
 
-.drop-button {
-    background-color: #f0d39e;
-    border: none;
-    font-family: "Josefin Sans", sans-serif;
-}
+
 
 /* Main */
 main {
