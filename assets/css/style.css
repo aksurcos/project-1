@@ -103,13 +103,15 @@ main {
 
 
 /* 4 Cards */
-.who, .feeding, .veterinary, .adoption {
-    width: 50%;
+.cards {
+    width: 47%;
     height: 150px;
     font-size: 1em;
     border-radius: 10px;
     background: linear-gradient(to right, #dc6767, #de9e8c);
     margin-top: 0.5rem;
+    margin-right: 0.5rem;
+    
 }
 
 .cards h3, p {
@@ -119,8 +121,8 @@ main {
 #main-divs{
     display: flex;
     flex-wrap: wrap;
-    padding: 0.5rem;
-    }
+    margin-left: 0.5rem;    
+   }
 
 
 
