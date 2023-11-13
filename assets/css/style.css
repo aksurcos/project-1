@@ -5,6 +5,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 /* General styling */
 
 body {
@@ -31,7 +32,6 @@ header a {
     color: inherit;
     text-align: center;
     padding: 15px 15px
-     
 }
 
 h1 {
@@ -57,29 +57,29 @@ nav {
 #menu {
     padding-top: 0.5em;
     font-size: 130%;
-    letter-spacing: 3px;    
+    letter-spacing: 3px;
     list-style-type: none;
     font-family: "Josefin Sans", sans-serif;
 }
 
-#menu > li {
+#menu>li {
     margin-top: 1em;
-    }
-
-.active {
-    border-bottom: 1px solid ##494545;
-
-ul li a:hover {
-    background-color: #85586fb4;
-    transition: 0.7s;
 }
 
-    
+.active {
+    border-bottom: 1px solid #494545;
+
+    ul li a:hover {
+        background-color: #85586fb4;
+        transition: 0.7s;
+    }
+
+}
 
 /* Main */
 main {
     background-color: #DEB6AB;
- /* To push footer down */
+    /* To push footer down */
     flex: 1 0 auto;
 }
 
