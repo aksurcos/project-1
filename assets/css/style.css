@@ -111,19 +111,6 @@ main {
     background:linear-gradient(to right, #dc6767, #DEB6AB);
 }
 
-
-div:hover{
-    width:100%;
-    cursor: hand;
-    transition-property: width;
-    transition-duration: 1s;
-    transition-delay: 0.1s;
-}
-
-
-
-
-
 /* Footer */
 
 
@@ -177,14 +164,27 @@ div:hover{
         /* To push main content down */
 
         main {
-        margin-top: 151px;
-        }
+            margin-top: 151px;
+        }        
         
     }
 
     @media screen and (min-width: 992px) {
         #menu a:hover {
         border-bottom: 2px solid #540303;
+        }
+
+        .to-right:hover {
+            width: 100%;
+            cursor: hand;
+            transition-property: height;
+            transition-duration: 1s;
+            transition-delay: 0.5s;
+        }
+
+        
+
+        
     }
 
     
