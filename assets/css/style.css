@@ -115,6 +115,9 @@ main {
     margin-top: 0.5rem;
 }
 
+.to-right h3, p {
+    padding: 0.5em 0.1em ;
+}
 /* Footer */
 
 
