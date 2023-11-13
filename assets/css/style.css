@@ -103,10 +103,7 @@ main {
 
 
 /* 4 Cards */
-.who,
-.feeding,
-.veterinary,
-.adoption {
+.who, .feeding, .veterinary, .adoption {
     width: 50%;
     height: 150px;
     font-size: 1em;
@@ -118,6 +115,7 @@ main {
 .to-right h3, p {
     padding: 0.5em 0.1em ;
 }
+
 /* Footer */
 
 
