@@ -112,6 +112,11 @@ main {
     z-index: 5;
 }
 
+#helpful-links i {
+    font-size: 150%;
+    color: rgb(68, 2, 2);
+}
+
 .waves {
     position: absolute;
     bottom: 0;
