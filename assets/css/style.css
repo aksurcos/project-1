@@ -12,6 +12,7 @@ body {
     display: flex;
     flex-direction: column;
     color: black;
+    font-family: "Josefin Sans", sans-serif;
 }
 
 
@@ -29,7 +30,7 @@ header a {
     text-decoration: none;
     color: inherit;
     text-align: center;
-    padding: 20px 20px
+    padding: 15px 15px
      
 }
 
@@ -49,8 +50,7 @@ nav {
     left: 0;
     padding: 0 1rem;
     box-shadow: 0 10px 10px #494545;
-    margin-top:0;
-
+        display: none;
 
 }
 
@@ -63,43 +63,18 @@ nav {
 }
 
 #menu > li {
-    margin-bottom: 0.5em;
-    padding-right:1em;
+    margin-top: 1em;
     }
 
-ul li {
-    display: inline-block;
-    position: relative;
-}
-
-ul li a {
-    display: block;
-    padding: 20px 20px;
-    text-align: center;
-    
-}
-ul li ul.dropdown li{
-    display: block;
-}
-.dropdown {
-    width: 100%;
-    background-color: #f0d39e;
-    position: absolute;
-    z-index: 999;
-    display: none;    
-   }
+.active {
+    border-bottom: 1px solid ##494545;
 
 ul li a:hover {
     background-color: #85586fb4;
     transition: 0.7s;
-    }
+}
+
     
-
-
-
-
-
-/* Dropdown Content */
 
 /* Main */
 main {
