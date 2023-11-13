@@ -50,7 +50,7 @@ nav {
     left: 0;
     padding: 0 1rem;
     box-shadow: 0 10px 10px #494545;
-        display: none;
+    display: none;
 
 }
 
@@ -85,5 +85,5 @@ main {
 
 /* Footer */
 footer {
-    background-color: #AC7D88;
+    background-color: #c08b98;
 }
