@@ -102,8 +102,16 @@ main {
 }
 
 /* Footer */
-footer {
-    background-color: #9e0404;
+#helpful-links {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.waves {
+    bottom: 0;
 }
 
 
