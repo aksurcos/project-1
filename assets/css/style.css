@@ -112,9 +112,18 @@ main {
     margin-top: 0.5rem;
 }
 
-.to-right h3, p {
-    padding: 0.5em 0.1em ;
+.cards h3, p {
+    padding: 0.5em 0.1em;
+    text-align: center;
 }
+#main-divs{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0.5rem;
+    }
+
+
+
 
 /* Footer */
 
@@ -170,7 +179,7 @@ main {
     /* To push main content down */
 
     main {
-        margin-top: 110px;
+        margin-top: 137px;
     }
 
 }
@@ -178,13 +187,5 @@ main {
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 2px solid #540303;
-    }
-
-    .to-right:hover {
-        width: 100%;
-        cursor: hand;
-        transition-property: height;
-        transition-duration: 1s;
-        transition-delay: 0.5s;
-    }
+    }    
 }
