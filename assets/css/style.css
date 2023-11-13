@@ -84,6 +84,7 @@ nav {
 
 .menu-drop-label {
     font-size: 2rem;
+    color:#712b4f;
 }
 
 ul li a:hover {
@@ -114,7 +115,7 @@ main {
 
 #helpful-links i {
     font-size: 150%;
-    color: rgb(68, 2, 2);
+    color: rgb(88, 34, 34);
 }
 
 .waves {
