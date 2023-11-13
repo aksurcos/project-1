@@ -108,10 +108,14 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    position: relative;
+    z-index: 5;
 }
 
 .waves {
+    position: absolute;
     bottom: 0;
+    z-index: 2;
 }
 
 
