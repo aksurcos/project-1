@@ -99,18 +99,42 @@ main {
     /* To push footer down */
     flex: 1 0 auto;
     margin-top: 100px;   
-    
+   }
+
+
+   /* 4 Cards */
+.who, .feeding, .veterinary, .adoption {
+    width: 20%;
+    height:88px;
+    font-size: 20px;
+    border-radius: 10px;
+    background:linear-gradient(to right, #dc6767, #DEB6AB);
 }
 
+
+div:hover{
+    width:100%;
+    cursor: hand;
+    transition-property: width;
+    transition-duration: 1s;
+    transition-delay: 0.1s;
+}
+
+
+
+
+
 /* Footer */
+
+
 #helpful-links {
     text-align: center;
     padding: 20px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    position: relative;
-    z-index: 5;
+    background-image: url("../images/footerimage.png");
+    background-size: 100% 100%;
 }
 
 #helpful-links i {
@@ -118,11 +142,7 @@ main {
     color: rgb(88, 34, 34);
 }
 
-.waves {
-    position: absolute;
-    bottom: 0;
-    z-index: 2;
-}
+
 
 
 @media screen and (min-width: 768px) {
