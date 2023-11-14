@@ -143,14 +143,14 @@ main {
 }
 
 
+/* Sign-up styling */
 
 
 
-
-
-
-
-
+.radio-buttons, .checkmark:hover, :focus, :active{
+    box-shadow: 4px 4px 5px 0px rgba(70, 1, 1, 0.7);
+    transition: box-shadow .3s;
+}
 
 /* Footer */
 
