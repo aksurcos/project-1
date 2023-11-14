@@ -41,10 +41,11 @@
 
     </header>
     <!-- Main  Content -->
-    <main>
+    <main> <fieldset>
+        <legend><h2>Join our journey!</h2></legend>
         <section id="signup">
             <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
-                <h2></i> Join our journey!</h2>
+                
                 <label for="first_name">First Name</label>
                 <input type="text" name="first_name" id="first_name" class="text-input" required>
                 <br>
@@ -80,8 +81,17 @@
                     <br>
 
                 </div>
-                <button type="submit" class="join-button">Join Rescue Community!</button>
+                <button type="submit" class="buttons">Join Rescue Community!</button>
             </form>
+            </fieldset>
+
+            <fieldset id="feedback">
+                <legend><h2>Feedback</h2></legend>
+                <label for="feedback"><h3>Tell us what we can do more.</h3></label>
+                <br>
+                <textarea id="feedback" rows="10" cols="36" name="feedback"></textarea>
+                <button type="submit" class="buttons">Send Your Feedback!</button>
+            </fieldset>
         </section>
 
 
