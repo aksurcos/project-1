@@ -105,7 +105,7 @@ main {
 /* 4 Cards */
 .cards {
     width: 46%;
-    height: 155px;
+    height: 200px;
     font-size: 1em;
     border-radius: 10px;
     border: 2px solid rgb(102, 11, 11);      
@@ -136,9 +136,10 @@ main {
 .cards h3, p {
     padding: 0.1em 0.1em;
     text-align: center;
-    color: #ea3c3c;
+    color: rgb(170, 71, 112);
     font-size: large;
     font-weight: bold;
+    text-shadow: 1px 1px #494545; 
 }
 
 
