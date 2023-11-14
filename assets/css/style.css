@@ -163,6 +163,7 @@ line-height: 30px;
     margin-top: 5%;
 }
 
+
 textarea {
     background-color: #c17d6a;
     margin-top: 5%;
@@ -176,6 +177,8 @@ textarea {
     width: 170px;
     margin: 10px;
     border: 2px solid #6f1902;
+    position: relative;
+    left: 45px;
 }
 
 
