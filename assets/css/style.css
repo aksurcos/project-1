@@ -20,7 +20,7 @@ body {
 
 /* Header */
 header {
-    background-color: #F8ECD1;
+    background-color: #df5b4c;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -38,7 +38,7 @@ header a {
 
 h1 {
     font-family: "Josefin Sans", sans-serif;
-    color: #af1766;
+    color: #2f252a;
     text-transform: uppercase;
     letter-spacing: 4px;
     font-weight: 800;
@@ -64,7 +64,7 @@ h1 {
 
 nav {
     position: absolute;
-    background-color: #F8ECD1;
+    background-color: #df5b4c;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -136,7 +136,7 @@ main {
 .cards h3, p {
     padding: 0.1em 0.1em;
     text-align: center;
-    color: rgb(170, 71, 112);
+    color: #df5b4c;
     font-size: large;
     font-weight: bold;
     text-shadow: 1px 1px #494545; 
@@ -162,11 +162,16 @@ line-height: 30px;
 textarea {
     background-color: #c17d6a;
     margin-top: 5%;
+    margin-left: 1% 
 }
 
 .buttons{
-    background-color: #9c3b20;
-
+    background-color: #c55334 ;
+    padding: 4px 4px;
+    border-radius: 12px;
+    width: 170px;
+    margin: 10px;
+    border: 2px solid #6f1902;
 }
 
 
@@ -236,7 +241,25 @@ textarea {
          margin-left: 20px;
                 }
 
+    /* Sign up styling for not phones */
 
+        #signup {
+            width: 40vw;
+            height: 300px;
+            background-color: rgb(220, 59, 54, 0.8);
+            text-align: left;
+            margin: 1%;
+            padding: 1% 1%;
+            left: 0;
+            line-height: 30px;
+            font-size: larger;
+        }
+
+        #feedback {
+            margin-top: 1%;
+         }
+
+        
 
 
 }
