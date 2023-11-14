@@ -179,6 +179,10 @@ textarea {
     transition-duration: 1s;
 }
 
+.different-background{background: url("../images/signupbackground.jpg") no-repeat center/cover;
+    
+}
+
 
 
 /* Footer */
