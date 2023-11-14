@@ -132,10 +132,7 @@ main {
 
 #main-divs div {
     background-color: rgb(88, 34, 34, .7);
-  }
-
-
-
+}
 
 .cards h3, p {
     padding: 0.1em 0.1em;
@@ -152,7 +149,7 @@ main {
 #signup {
 width: 100%;
 height: 300px;
-background-color: rgb(220, 59, 54, 0.8);
+background-color: rgb(220, 59, 54, 0.5);
 text-align: left;
 padding:8% 1%;
 left: 0;
@@ -171,7 +168,7 @@ textarea {
 }
 
 .buttons{
-    background-color: #c55334 ;
+    background-color: #de5046 ;
     padding: 4px 4px;
     border-radius: 12px;
     width: 170px;
@@ -179,6 +176,7 @@ textarea {
     border: 2px solid #6f1902;
     position: relative;
     left: 45px;
+    transition-duration: 1s;
 }
 
 
@@ -251,24 +249,16 @@ textarea {
     /* Sign up styling for not phones */
 
         #signup {
-            width: 40vw;
-            height: 300px;
-            background-color: rgb(220, 59, 54, 0.8);
-            text-align: left;
+            width: 40vw;            
             margin: 1%;
-            padding: 1% 1%;
-            left: 0;
+            padding: 1% 1%;            
             line-height: 30px;
             font-size: larger;
         }
 
         #feedback {
             margin-top: 1%;
-         }
-
-        
-
-
+         } 
 }
 
 @media screen and (min-width: 992px) {
@@ -316,7 +306,8 @@ textarea {
     margin-right: 60px;
     margin-left: 30px;
 }
-
-
+.buttons:hover {
+    background-color: #9c0f05;    
+}
 
 }
