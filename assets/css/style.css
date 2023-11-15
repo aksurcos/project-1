@@ -29,6 +29,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    font-family: "Josefin Sans", sans-serif;
 }
 
 header a {
@@ -36,8 +37,7 @@ header a {
     color: inherit;
 }
 
-h1 {
-    font-family: "Josefin Sans", sans-serif;
+h1 { 
     color: #2f252a;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -115,7 +115,7 @@ main {
     border-radius: 10px;
     border: 2px solid rgb(102, 11, 11);
     box-shadow: 5px 2px 2px  #201b1e; 
-}
+    }
 
 #main-divs {
     display: flex;
@@ -142,7 +142,7 @@ main {
     color: #df5b4c;
     font-size: large;
     font-weight: bold;
-    text-shadow: 1px 1px #494545; 
+    text-shadow: 1px 1px #000000;    
 }
 
 
@@ -256,16 +256,23 @@ textarea {
     /* Sign up styling for not phones */
 
         #signup {
-            width: 40vw;            
+            width: 45vw;            
             margin: 1%;
             padding: 1% 1%;            
             line-height: 30px;
             font-size: larger;
+            position: relative;
+            left: 27%
         }
 
         #feedback {
             margin-top: 1%;
-         } 
+            text-align: center;
+
+        } 
+        textarea{ 
+            width: 45vw;
+        }
 }
 
 @media screen and (min-width: 992px) {
