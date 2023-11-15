@@ -262,7 +262,9 @@ textarea {
             line-height: 30px;
             font-size: larger;
             position: relative;
-            left: 27%
+            left: 27%;
+            text-align: center;
+            
         }
 
         #feedback {
@@ -272,6 +274,10 @@ textarea {
         } 
         textarea{ 
             width: 45vw;
+        }
+
+        legend {
+            text-align: center;
         }
 }
 
