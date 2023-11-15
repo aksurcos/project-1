@@ -306,22 +306,22 @@ textarea {
 
 .who:hover {
     transform-origin: top left;
-    transform: scale(1.2);
+    transform: scale(1.04);
 }
 
 .feeding:hover {
     transform-origin: top right;
-    transform: scale(1.2);
+    transform: scale(1.04);
 }
 
 .veterinary:hover {
     transform-origin: bottom left;
-    transform: scale(1.2);
+    transform: scale(1.04);
 }
 
 .adoption:hover {
     transform-origin: bottom right;
-    transform: scale(1.2);
+    transform: scale(1.04);
 }
 .who, .veterinary {
     margin-right: 60px;
