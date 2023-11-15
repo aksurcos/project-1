@@ -163,6 +163,7 @@ line-height: 30px;
 
 textarea {
     background-color: #c17d6a;
+    opacity: 0.7;
     margin-top: 5%;
     margin-left: 1% 
 }
