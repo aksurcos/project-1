@@ -42,6 +42,7 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 4px;
     font-weight: 800;
+    text-shadow: 2px 2px #494545;
 }
 
 
@@ -112,7 +113,8 @@ main {
     height: 200px;
     font-size: 1em;
     border-radius: 10px;
-    border: 2px solid rgb(102, 11, 11);      
+    border: 2px solid rgb(102, 11, 11);
+    box-shadow: 5px 2px 2px  #201b1e; 
 }
 
 #main-divs {
@@ -280,12 +282,13 @@ textarea {
 }
 
 .veterinary {
-    transition: transform 0.2s ease;
+    transition: transform 0.2s ease; 
 }
 
 
 .adoption {
     transition: transform 0.2s ease;
+    
 }
 
 .who:hover {
