@@ -41,8 +41,11 @@
     </header>
     <!-- Main  Content -->
     <main> 
-        <div class="different-background"><fieldset>
-        <legend><h2>Join our journey!</h2></legend>
+        <div class="different-background">
+            <fieldset>
+                <legend>
+                    <h2>Join our journey!</h2>
+                </legend>
         <section id="signup">
             <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
                 
@@ -56,29 +59,27 @@
                 <input type="email" name="email_address" id="email_address" class="text-input" required>
                 <br>
                 <div class="check-boxes">
-                    <h1></h1>
-                    <label class="container">I am willing to foster.
-                        <input type="checkbox">
-                        <span class="check"></span>
-                    </label>
-                    <br>
+                    <h4>Please choose how you can help.</h4>               
 
-                    <label class="container">I am willing to donate.
-                        <input type="checkbox">
-                        <span class="check"></span>
-                    </label>
-                    <br>
-
-                    <label class="container">I am willing to join adoption events.
-                        <input type="checkbox">
-                        <span class="check"></span>
-                    </label>
-                    <br>
-                    <label class="container">I am willing to be in rescue team.
-                        <input type="checkbox">
-                        <span class="check"></span>
-                    </label>
-                    <br>
+                <div>        
+                    <label class="container"><div class="radio-buttons">
+                    <div>
+                        <label for="donate">I am willing to donate.</label>
+                        <input type="radio" name="helping-way" id="donation" value="donation" required>
+                    </div>
+                    <div>
+                        <label for="foster">I am willing to foster.</label>
+                        <input type="radio" name="helping-way" id="fostering" value="fostering" required>
+                    </div>
+                    <div>
+                        <label for="rescue">I am willing to in rescue team.</label>
+                        <input type="radio" name="helping-way" id="rescue-team" value="rescue-team" required>
+                    </div>
+                    <div>
+                        <label for="adopt">I am willing to adopt.</label>
+                        <input type="radio" name="helping-way" id="adoption" value="adoption" required>
+                    </div>
+                </div>                    
 
                 </div>                
             </form>
