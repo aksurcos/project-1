@@ -175,12 +175,10 @@ border-radius: 10px;
 
 .text-input {
     display: block;
-    width: 80%;
+    width: 90%;
 }
 
-.radio-buttons-container {
-    max-width: 600px;    
-}
+
 
 #feedback {
     margin-top: 5%;
@@ -210,7 +208,9 @@ textarea {
     position: relative;
     left: 45px;
     transition-duration: 1s;
-}
+    }
+
+    
 
 .different-background{
     background: url("../images/signupbackground.webp") no-repeat center/cover;    
