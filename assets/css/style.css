@@ -121,11 +121,11 @@ main {
 }
 .who, .veterinary {
     margin-right: 10px;
-    background: url("../images/cardsbackground.jpg") no-repeat center/cover;
+    background: url("../images/cardsbackgroundleft.webp") no-repeat center/cover;
 }
 
 .feeding, .adoption {
-    background: url("../images/backgroundimageright.jpg") no-repeat center/cover;
+    background: url("../images/backgroundimageright.webp") no-repeat center/cover;
 }
 
 #main-divs div {
