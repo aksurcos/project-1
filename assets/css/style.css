@@ -147,6 +147,15 @@ main {
 
 /* Gallery Page Styling */
 
+#photos img{
+    width: 100%;
+    border-radius: 10px;
+    line-height: 1em;
+    }
+
+#photos {
+    line-height: 0;
+}
 
 
 
@@ -214,7 +223,12 @@ textarea {
 }
 
 
-
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
 
 @media screen and (min-width: 768px) {
 
@@ -262,80 +276,85 @@ textarea {
 
     /* Sign up styling for not phones */
 
-        #signup {
-            width: 45vw;            
-            margin: 1%;
-            padding: 1% 1%;            
-            line-height: 30px;
-            font-size: larger;
-            position: relative;
-            left: 27%;
-            text-align: center;
-            
-        }
+    #signup {
+        width: 45vw;            
+        margin: 1%;
+        padding: 1% 1%;            
+        line-height: 30px;
+        font-size: larger;
+        position: relative;
+        left: 27%;
+        text-align: center;
+     }
 
-        #feedback {
-            margin-top: 1%;
-            text-align: center;
+    #feedback {
+        margin-top: 1%;
+        text-align: center;
+    } 
+    textarea{ 
+        width: 45vw;
+    }
 
-        } 
-        textarea{ 
-            width: 45vw;
-        }
-
-        legend {
-            text-align: center;
-        }
+    legend {
+        text-align: center;
+    }        
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 992px) {              
     #menu a:hover {
         border-bottom: 2px solid #540303;
     }  
     
-.who {
-    transition: transform 0.2s ease;
+    .who {
+        transition: transform 0.2s ease;
+    }
+
+    .feeding {
+        transition: transform 0.2s ease;
+    }
+
+    .veterinary {
+        transition: transform 0.2s ease; 
+    }
+
+
+    .adoption {
+        transition: transform 0.2s ease;
+    }   
+
+    .who:hover {
+        transform-origin: top left;
+        transform: scale(1.04);
+    }
+
+    .feeding:hover {
+        transform-origin: top right;
+        transform: scale(1.04);
+    }
+
+    .veterinary:hover {
+        transform-origin: bottom left;
+        transform: scale(1.04);
+    }
+
+    .adoption:hover {
+        transform-origin: bottom right;
+        transform: scale(1.04);
+    }
+    .who, .veterinary {
+        margin-right: 60px;
+        margin-left: 30px;
+    }
+    .buttons:hover {
+        background-color: #9c0f05;    
+    }
+    #photos {
+        column-count: 3;
+    }
 }
 
-.feeding {
-    transition: transform 0.2s ease;
-}
-
-.veterinary {
-    transition: transform 0.2s ease; 
-}
-
-
-.adoption {
-    transition: transform 0.2s ease;
-    
-}
-
-.who:hover {
-    transform-origin: top left;
-    transform: scale(1.04);
-}
-
-.feeding:hover {
-    transform-origin: top right;
-    transform: scale(1.04);
-}
-
-.veterinary:hover {
-    transform-origin: bottom left;
-    transform: scale(1.04);
-}
-
-.adoption:hover {
-    transform-origin: bottom right;
-    transform: scale(1.04);
-}
-.who, .veterinary {
-    margin-right: 60px;
-    margin-left: 30px;
-}
-.buttons:hover {
-    background-color: #9c0f05;    
-}
-
+@media screen and (min-width: 1200px) {
+    #photos {
+            column-count: 4;
+    }
 }
