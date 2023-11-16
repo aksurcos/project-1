@@ -189,7 +189,7 @@ textarea {
     transition-duration: 1s;
 }
 
-.different-background{background: url("../images/signupbackground.jpg") no-repeat center/cover;
+.different-background{background: url("../images/signupbackground.webp") no-repeat center/cover;
     
 }
 
