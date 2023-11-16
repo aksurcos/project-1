@@ -163,15 +163,22 @@ main {
 
 #signup {
 width: 100%;
-height: 300px;
+height: 50vh;
 background-color: rgb(220, 59, 54, 0.5);
 text-align: left;
 padding:8% 1%;
 margin-bottom: 20px;
 left: 0;
-line-height: 30px;
+line-height: 18px;
 border-radius: 10px;
+}
 
+.text-input {
+    display: block;
+}
+
+.radio-buttons-container {
+    max-width: 600px;    
 }
 
 #feedback {
@@ -188,6 +195,7 @@ textarea {
 
 }
 
+
 .buttons{
     background-color: #de5046 ;
     padding: 4px 4px;
@@ -200,9 +208,11 @@ textarea {
     transition-duration: 1s;
 }
 
-.different-background{background: url("../images/signupbackground.webp") no-repeat center/cover;
+.different-background{
+    background: url("../images/signupbackground.webp") no-repeat center/cover;    
     
 }
+
 
 
 
@@ -230,6 +240,7 @@ textarea {
         column-count: 2;
         column-gap: 0;
     }
+    
 }
 
 @media screen and (min-width: 768px) {
@@ -276,17 +287,26 @@ textarea {
          margin-left: 20px;
                 }
 
-    /* Sign up styling for not phones */
+    /* Sign up styling */
 
     #signup {
         width: 45vw;            
         margin: 1%;
-        padding: 1% 1%;            
-        line-height: 30px;
+        padding: 40px 10px;          
+        line-height: 19px;
         font-size: larger;
         position: relative;
-        left: 27%;
-        text-align: center;
+        left: 27%;        
+     }            
+
+     input {
+        padding: 7px;
+        width: 60%
+     }   
+
+
+     #join-button{
+        margin-top: 50px;        
      }
 
     #feedback {

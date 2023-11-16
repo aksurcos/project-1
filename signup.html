@@ -62,28 +62,31 @@
                     <h4>Please choose how you can help.</h4>               
 
                 <div>        
-                    <label class="container"><div class="radio-buttons">
+                    <label class="radio-buttons-container"><div class="radio-buttons">
+                        <div>
+                            <label for="foster">I am willing to foster.</label>
+                            <input type="radio" name="helping-way" id="fostering" value="fostering" required>
+                        </div>
+                    <div>
+                        <label for="adopt">I am willing to adopt.</label>
+                        <input type="radio" name="helping-way" id="adoption" value="adoption" required>
+                    </div>
+                    
                     <div>
                         <label for="donate">I am willing to donate.</label>
                         <input type="radio" name="helping-way" id="donation" value="donation" required>
                     </div>
                     <div>
-                        <label for="foster">I am willing to foster.</label>
-                        <input type="radio" name="helping-way" id="fostering" value="fostering" required>
-                    </div>
-                    <div>
                         <label for="rescue">I am willing to in rescue team.</label>
                         <input type="radio" name="helping-way" id="rescue-team" value="rescue-team" required>
                     </div>
-                    <div>
-                        <label for="adopt">I am willing to adopt.</label>
-                        <input type="radio" name="helping-way" id="adoption" value="adoption" required>
-                    </div>
+                    
+                    
                 </div>                    
 
                 </div>                
             </form>
-            <button type="submit" class="buttons">Join Rescue Community!</button>
+            <button type="submit" class="buttons" id="join-button">Join Rescue Community!</button>
             </fieldset>
 
             <fieldset id="feedback">
