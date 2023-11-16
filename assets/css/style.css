@@ -145,6 +145,10 @@ main {
     text-shadow: 1px 1px #000000;    
 }
 
+/* Gallery Page Styling */
+
+
+
 
 /* Sign-up styling */
 
@@ -156,6 +160,7 @@ text-align: left;
 padding:8% 1%;
 left: 0;
 line-height: 30px;
+border-radius: 10px;
 }
 
 #feedback {
@@ -167,7 +172,9 @@ textarea {
     background-color: #c17d6a;
     opacity: 0.7;
     margin-top: 5%;
-    margin-left: 1% 
+    margin-left: 1%;
+    border-radius: 10px;
+
 }
 
 .buttons{
