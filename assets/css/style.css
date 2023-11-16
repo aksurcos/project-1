@@ -92,10 +92,6 @@ nav {
        
     }
 
-ul li a:hover {
-    background-color: #85586fb4;
-    transition: 0.7s;
-}
 
 
 /* Main */
@@ -137,12 +133,14 @@ main {
 }
 
 .cards h3, p {
-    padding: 0.1em 0.1em;
+    padding: 0.5em 0.1em;
     text-align: center;
     color: #df5b4c;
     font-size: large;
     font-weight: bold;
-    text-shadow: 1px 1px #000000;    
+    text-shadow: 1px 1px #713a3a;
+    background-color: rgba(17, 17, 16, 0.7);     
+    margin-top: 20px;    
 }
 
 /* Gallery Page Styling */
@@ -326,7 +324,13 @@ textarea {
     }        
 }
 
-@media screen and (min-width: 992px) {              
+@media screen and (min-width: 992px) { 
+    
+    ul li a:hover {
+            background-color: #85586fb4;
+            transition: 0.7s;
+    }
+
     #menu a:hover {
         border-bottom: 2px solid #540303;
     }  
@@ -377,6 +381,8 @@ textarea {
     #photos {
         column-count: 3;
     }
+
+
 }
 
 @media screen and (min-width: 1200px) {
