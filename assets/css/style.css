@@ -175,6 +175,7 @@ border-radius: 10px;
 
 .text-input {
     display: block;
+    width: 80%;
 }
 
 .radio-buttons-container {
@@ -192,6 +193,9 @@ textarea {
     margin-top: 5%;
     margin-left: 1%;
     border-radius: 10px;
+    width: 99%;
+    font-family: "Josefin Sans", sans-serif;  
+    font-size: 18px;
 
 }
 
