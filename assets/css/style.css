@@ -15,6 +15,9 @@ body {
     background-color: #DEB6AB;
     color: black;
     font-family: "Josefin Sans", sans-serif;
+    max-width: 1500px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 
@@ -30,6 +33,7 @@ header {
     justify-content: space-between;
     align-items: baseline;
     font-family: "Josefin Sans", sans-serif;
+    max-width: 1500px;
 }
 
 header a {
@@ -435,5 +439,21 @@ textarea {
 @media screen and (min-width: 1200px) {
     #photos {
             column-count: 4;
+    }
+
+    #join-us {
+        margin-top: 5em;
+    }
+
+    #signup { 
+        margin: 0;     
+        padding-left: 4em;         
+        left:25%;
+        max-width: 800px;     
+    }
+
+    textarea {     
+     margin-left: 0px;
+     max-width: 800px;
     }
 }
