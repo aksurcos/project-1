@@ -187,7 +187,7 @@ line-height: 18px;
 border-radius: 10px;
 }
 
-legend, h3 {
+legend {
     color: #181717;
     text-shadow: 1px 1px gray;
     font-size: large;
@@ -233,10 +233,7 @@ textarea {
 
     
 
-.different-background{
-    background: url("../images/signupbackground.webp") no-repeat center/cover;    
-    
-}
+
 
 
 
@@ -331,6 +328,7 @@ textarea {
         font-size: larger;
         position: relative;
         left: 27%;
+        background: url("../images/signupbackground.webp") no-repeat center/cover;
                
      }            
 
@@ -359,6 +357,10 @@ textarea {
     textarea{ 
         width: 45vw;
     }
+        ::placeholder {
+            color: rgb(0, 0, 0);
+                                    
+        }
 
     legend {
         text-align: center;
@@ -465,4 +467,5 @@ textarea {
      margin-left: 0px;
      max-width: 800px;
     }
+
 }

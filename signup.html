@@ -5,8 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description"
-        content="Volunteers group to help, to feed stray animals, to visit animal shelters and to find forever homes for them.  " />
+    <meta name="description" content="Volunteers group to help, to feed stray animals, to visit animal shelters and to find forever homes for them.  ">
     <meta name="keywords"
         content="stray animals, feeding stray animals, adopt stray animals, visiting animal shelters, stray cats, stray dogs">
 
@@ -41,12 +40,12 @@
     </header>
     <!-- Main  Content -->
     <main> 
-        <div class="different-background">
-            <fieldset id="join-us">
+        <section id="signup">
+        <fieldset id="join-us">
                 <legend>
                     <h2>Join our journey!</h2>
                 </legend>
-        <section id="signup">
+        
             <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
                 
                 <label for="first_name">First Name</label>
@@ -58,47 +57,47 @@
                 <label for="email_address">Email Address</label>
                 <input type="email" name="email_address" id="email_address" class="text-input" required>
                 <br>
-                <div class="check-boxes">
-                    <h4>Please choose how you can help.</h4>  
-                    <br>          
+                
+                <h4>Please choose how you can help.</h4>  
+                <br>          
                 <div>        
                     <div class="radio-buttons">
                         <div>
-                            <label for="foster">I am willing to foster.</label>
+                            <label for="fostering">I am willing to foster.</label>
                             <input type="radio" name="helping-way" id="fostering" value="fostering" required>
                         </div>
                     <div>
-                        <label for="adopt">I am willing to adopt.</label>
+                        <label for="adoption">I am willing to adopt.</label>
                         <input type="radio" name="helping-way" id="adoption" value="adoption" required>
                     </div>
                     
                     <div>
-                        <label for="donate">I am willing to donate.</label>
+                        <label for="donation">I am willing to donate.</label>
                         <input type="radio" name="helping-way" id="donation" value="donation" required>
                     </div>
                     <div>
-                        <label for="rescue">I am willing to in rescue team.</label>
+                        <label for="rescue-team">I am willing to in rescue team.</label>
                         <input type="radio" name="helping-way" id="rescue-team" value="rescue-team" required>
                     </div>
                     
                     
-                </div>                    
+                </div>                   
 
                 </div>                
-            </form>
             <button type="submit" class="buttons" id="join-button">Join Rescue Community!</button>
+            </form>
             </fieldset>
 
             <fieldset id="feedback">
                 <legend><h2>Feedback</h2></legend>
-                <label for="feedback"><h3>Tell us what we can do more.</h3></label>
+                <label for="feedbackbox">Tell us what we can do more.</label>
                 <br>
-                <textarea id="feedback" rows="10" cols="36" name="feedback"></textarea>
+                <textarea id="feedbackbox" rows="10" cols="36" name="feedbacktext" placeholder="Please, give us feedback!"></textarea>
                 <br>
                 <button type="submit" class="buttons" id="feedback-button">Send Your Feedback!</button>
             </fieldset>
         </section>
-        </div>
+        
 
     </main>
 
