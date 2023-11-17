@@ -242,8 +242,9 @@ textarea {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    background-image: url("../images/footerimage.png");
+    background-image: url("../images/footerimage.webp");
     background-size: 100% 100%;
+
 }
 
 #helpful-links i {
