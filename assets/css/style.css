@@ -187,10 +187,18 @@ line-height: 18px;
 border-radius: 10px;
 }
 
+legend, h3 {
+    color: #181717;
+    text-shadow: 1px 1px gray;
+    font-size: large;
+}
+
 .text-input {
     display: block;
     width: 90%;
 }
+
+
 
 
 
