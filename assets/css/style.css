@@ -88,15 +88,23 @@ nav {
     color: #201b1e;    
     position: relative;
     top: 50px;
-    right: 15px;
-       
+    right: 15px;       
     }
 
-
-
 /* Main */
-main {
-    background-color: #DEB6AB;
+
+#welcome h2 { 
+    color:#6a6065;
+    text-transform: uppercase;
+    background-color: rgb(88, 34, 34, 0.8);    
+    padding: 1em;
+    text-align: center;
+
+}
+
+
+
+main {    
     /* To push footer down */
     flex: 1 0 auto;
     margin-top: 100px;
