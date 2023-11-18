@@ -177,7 +177,7 @@ main {
 
 #diff-background {
     background: url("../images/signupbackground.webp") no-repeat center/cover;
-    margin-top: 0;
+    margin-top: 5em;
 }
 
 #signingup {
@@ -326,7 +326,7 @@ textarea {
 
     /* Sign up styling */
 
-    #signup {
+    #signingup {
         width: 45vw;            
         margin: 0;
         padding: 40px 20px;          
@@ -417,7 +417,7 @@ textarea {
         margin-left: 30px;
     }
 
-    #signup {
+    #signingup {
         margin-top: 4em;
     }
     .buttons:hover {
@@ -444,13 +444,17 @@ textarea {
     }
 
     #join-us {
-        margin-top: 5em;
+        margin-top: 0;
     }
 
-    #signup { 
+    #signingup { 
         margin: 0;     
         padding-left: 4em;         
         left:25%;
         max-width: 800px;     
+    }
+
+    textarea {
+     padding-bottom: 0.1em;
     }
 }
