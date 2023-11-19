@@ -40,7 +40,7 @@ Closed and dropped down looking of navigation bar for Galaxy Fold
 
 -    __Cards Section__
 
-    - Cards describes community and services. For large screens, it has 1.04 times bigger scaling features.
+    Cards describes community and services. For large screens, it has 1.04 times bigger scaling features.
 
 ![cards](documentation/imagesreadme/cards.png)
 
@@ -49,7 +49,7 @@ Closed and dropped down looking of navigation bar for Galaxy Fold
 
 -    __Footer__
 
-    -  Footer has social media accounts link and also has donation link. It is responsive for all screen sizes.
+    Footer has social media accounts link and also has donation link. It is responsive for all screen sizes.
 
 ![footer](documentation/imagesreadme/footer.png)
 
