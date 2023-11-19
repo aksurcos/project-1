@@ -137,10 +137,13 @@ Cards looking for Galaxy Fold
 ### Codes   
 - Code Institute Love Running Projects for field sets for signup.html
 - And mostly got help to remember the codes syntax from https://www.w3schools.com/
+- Old-projects for readme.md styling 
 
 ### Inspration and Thanking
 - Thank you to my mentor Brian Macharia who was so helpful with critical advices as a professional.
 - Thank you to my dear spouse Mert Can Coskuner who helped me to understand git commands.
+- Thank you to all helpful Slack Community.
+  
 
 
 
