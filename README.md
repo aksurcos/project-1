@@ -137,7 +137,7 @@ Cards looking for Galaxy Fold
 ### Codes   
 - Code Institute Love Running Projects for field sets for signup.html
 - And mostly got help to remember the codes syntax from https://www.w3schools.com/
-- Old-projects for readme.md styling 
+- Old-projects for README.md styling 
 
 ### Inspration and Thanking
 - Thank you to my mentor Brian Macharia who was so helpful with critical advices as a professional.
