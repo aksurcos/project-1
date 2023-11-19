@@ -63,14 +63,14 @@ Cards looking for Galaxy Fold
 
 ## Design
 
--   ### Imagery
+-   ### Images
     -   The images has sort of harmony with backgrounds and texts thanks to their basic soft colors. 
 
 -   ### Color Set
     -  Color palette is chosen as heart-warming colors. 
 
        
--   ### Typography
+-   ### Font-Type
     -   Josefin Sans is imported from Google Fonts. It has gentle modern looking.
 
 
@@ -91,6 +91,14 @@ Cards looking for Galaxy Fold
       ![HTML results menu](documentation/validation/gallerypagehtmlvalidation.png)
     - result for signup.html
       ![HTML results contact](documentation/validation/signuppagehtmlvalidation.png)
+
+- [CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+    - result for style.css 
+      ![CSS results 1](documentation/validation/cssvalidation1.png)
+    The warning is because of import from Google Fonts.
+
+    
 
 
 
