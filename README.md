@@ -119,17 +119,17 @@ Cards looking for Galaxy Fold
 ## Credits
 
 ### Images 
--[Pexels](https://www.pexels.com/)
--It is originally svg codes but the bug occured when placing social media and donation icons, that's why it is used as image. [Footer Image](https://getwaves.io/) 
--The icons which are with cards section's h3 elements imported from [Font Awesome](https://fontawesome.com/)
+- [Pexels](https://www.pexels.com/)
+- It is originally svg codes but the bug occured when placing social media and donation icons, that's why it is used as image. [Footer Image](https://getwaves.io/) 
+- The icons which are with cards section's h3 elements imported from [Font Awesome](https://fontawesome.com/)
 
 ### Codes   
--Code Institute Love Running Projects for field sets for signup.html
--And mostly got help to remember the codes syntax from https://www.w3schools.com/
+- Code Institute Love Running Projects for field sets for signup.html
+- And mostly got help to remember the codes syntax from https://www.w3schools.com/
 
 ### Inspration and Thanking
--Thank you to my mentor Brian Macharia who was so helpful with critical advices as a professional.
--Thank you to my dear spouse Mert Can Coskuner who helped me to understand git commands.
+- Thank you to my mentor Brian Macharia who was so helpful with critical advices as a professional.
+- Thank you to my dear spouse Mert Can Coskuner who helped me to understand git commands.
 
 
 
