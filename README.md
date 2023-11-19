@@ -41,9 +41,11 @@ This site represents a volunteer group that has come together to provide a bette
     - Navigation bar has simple heading of site, it also inclues Home page, Gallery and Join Us links. It is responsive on different sizes screens. On small screens (such as Galaxy Fold), it will become an icon to drop-down.
 
 ![navbar](documentation/imagesreadme/navbar.png)
+
 Navigation bar's looking except small screens
 
 ![navbar galaxy fold](documentation/imagesreadme/navbarfold.png)
+
 Closed and dropped down looking of navigation bar for Galaxy Fold
 
 -   __Cards Section__
@@ -53,6 +55,7 @@ Closed and dropped down looking of navigation bar for Galaxy Fold
 ![cards](documentation/imagesreadme/cards.png)
 
 ![cards for galaxy fold](documentation/imagesreadme/cardsgalaxyfold.png)
+
 Cards looking for Galaxy Fold
 
 -   __Join Us Section__
