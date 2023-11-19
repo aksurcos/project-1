@@ -100,7 +100,7 @@ Cards looking for Galaxy Fold
 
 - Lighthouse
 
-- result for index.html
+    - result for index.html
       ![lighthouse results index](documentation/validation/homelh.png)
     - result for gallery.html
       ![lighthose results menu](documentation/validation/gallerylh.png)
@@ -108,8 +108,29 @@ Cards looking for Galaxy Fold
       ![lighthose results contact](documentation/validation/signuplh.png)
 
     
+## Deployment
 
+### How project is deployed
+- On the GitHub repository's own page, click its own "Settings" tab 
+- Choose Pages from the left hand menu 
+- On Pages, under "Build and deployment" section, brach needs to be set as "main" and folder needs to be set as "root"
+- After this settings, the project will be automatically deployed.
     
+## Credits
+
+### Images 
+-[Pexels](https://www.pexels.com/)
+-It is originally svg codes but the bug occured when placing social media and donation icons, that's why it is used as image. [Footer Image](https://getwaves.io/) 
+-The icons which are with cards section's h3 elements imported from [Font Awesome](https://fontawesome.com/)
+
+### Codes   
+-Code Institute Love Running Projects for field sets for signup.html
+-And mostly got help to remember the codes syntax from https://www.w3schools.com/
+
+### Inspration and Thanking
+-Thank you to my mentor Brian Macharia who was so helpful with critical advices as a professional.
+-Thank you to my dear spouse Mert Can Coskuner who helped me to understand git commands.
+
 
 
 
