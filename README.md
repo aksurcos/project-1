@@ -42,9 +42,9 @@ Closed and dropped down looking of navigation bar for Galaxy Fold
 
     - Cards describes community and services. For large screens, it has 1.04 times bigger scaling features.
 
-    ![cards](documentation/imagesreadme/cards.png)
+![cards](documentation/imagesreadme/cards.png)
 
-    ![cards](documentation/imagesreadme/cardsgalaxyfold.png)
+![cards](documentation/imagesreadme/cardsgalaxyfold.png)
     Cards looking for Galaxy Fold
 
 -    __Footer__
