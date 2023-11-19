@@ -85,7 +85,7 @@ Cards looking for Galaxy Fold
     -   Josefin Sans is imported from Google Fonts. It has gentle modern looking.
 
 
-### Used Languages, Programmes and Sites
+## Used Languages, Programmes and Sites
 
 -   HTML5
 -   CSS3
