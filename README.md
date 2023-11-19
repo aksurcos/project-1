@@ -81,22 +81,33 @@ Cards looking for Galaxy Fold
 
 ## Testing
 
-### Validator Testing
+### Validator Testing and Lighthose
 
 - [HTML Validator](https://validator.w3.org/)
 
     - result for index.html
       ![HTML results index](documentation/validation/homepagehtmlvalidation.png)
     - result for gallery.html
-      ![HTML results menu](documentation/validation/gallerypagehtmlvalidation.png)
+      ![HTML results gallery](documentation/validation/gallerypagehtmlvalidation.png)
     - result for signup.html
-      ![HTML results contact](documentation/validation/signuppagehtmlvalidation.png)
+      ![HTML results sign up](documentation/validation/signuppagehtmlvalidation.png)
 
 - [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
     - result for style.css 
       ![CSS results 1](documentation/validation/cssvalidation1.png)
     The warning is because of import from Google Fonts.
+
+- Lighthouse
+
+- result for index.html
+      ![lighthouse results index](documentation/validation/homelh.png)
+    - result for gallery.html
+      ![lighthose results menu](documentation/validation/gallerylh.png)
+    - result for signup.html
+      ![lighthose results contact](documentation/validation/signuplh.png)
+
+    
 
     
 
