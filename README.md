@@ -11,7 +11,7 @@ This site represents a volunteer group that has come together to provide a bette
 * [User Experience (UX)](#user-experience-ux) 
 * [Features](#features)
 * [Design](#design)
-* [Used Languages, Programmes and Sites](#used-languages-programmes-sites)
+* [Used Languages, Programmes and Sites](#used-languages)
 * [Testing](#testing)
 * [Deployment](#deployment)
 * [Credits](#credits)
