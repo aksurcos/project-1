@@ -21,15 +21,15 @@ This site represents a volunteer group that has come together to provide a bette
 
 -   ### User stories
 
-    -   #### A. First Time Visitor
+    -   ####  First Time Visitor
 
         As a first time visitor, I would like to learn who they are and what their services are.
 
-    -   #### B. Returning Visitor
+    -   #### Returning Visitor
 
         As a returning visitor, I would like to see their gallery and get a connection with them easily.
 
-    -   #### C. Frequent User
+    -   #### Frequent User
          As a frequent user, I would like join this team easily.
 
 ## Features
