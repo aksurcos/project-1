@@ -45,13 +45,22 @@ Closed and dropped down looking of navigation bar for Galaxy Fold
 ![cards](documentation/imagesreadme/cards.png)
 
 ![cards for galaxy fold](documentation/imagesreadme/cardsgalaxyfold.png)
-    Cards looking for Galaxy Fold
+Cards looking for Galaxy Fold
+
+-   __Join Us Section__
+
+    - This section has sort of application to join and feedback features.
+
+![join us section](documentation/imagesreadme/fieldsets.png)
+
 
 -   __Footer__
 
     - Footer has social media accounts link and also has donation link. It is responsive for all screen sizes.
 
 ![footer](documentation/imagesreadme/footer.png)
+
+
 
 
 
