@@ -118,7 +118,7 @@ Cards looking for Galaxy Fold
     
 ## Deployment
 
-### How the project is deployed
+### Deployment steps
 - On the GitHub repository's own page, click its own "Settings" tab 
 - Choose Pages from the left hand menu 
 - On Pages, under "Build and deployment" section, brach needs to be set as "main" and folder needs to be set as "root"
