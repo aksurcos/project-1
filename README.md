@@ -49,19 +49,48 @@ Cards looking for Galaxy Fold
 
 -   __Join Us Section__
 
-    - This section has sort of application to join and feedback features.
+    - This section has sort of application to join and feedback features. It is easy to choose which part users would like join and give feedback.
 
 ![join us section](documentation/imagesreadme/fieldsets1.png)
 
 
 -   __Footer__
 
-    - Footer has social media accounts link and also has donation link. It is responsive for all screen sizes.
+    - Footer has social media accounts link and also has donation link. It is responsive for all screen sizes. It makes easy for users to get contacted with volunteers and donation.
 
 ![footer](documentation/imagesreadme/footer.png)
 
 
+## Design
 
+-   ### Imagery
+    -   The images has sort of harmony with backgrounds and texts thanks to their basic soft colors. 
+
+-   ### Color Set
+    -  Color palette is chosen as heart-warming colors. 
+
+       
+-   ### Typography
+    -   Josefin Sans is imported from Google Fonts. It has gentle modern looking.
+
+
+### Used Languages 
+
+-   HTML5
+-   CSS3
+
+## Testing
+
+### Validator Testing
+
+- [HTML Validator](https://validator.w3.org/)
+
+    - result for index.html
+      ![HTML results index](documentation/validation/homepagehtmlvalidation.png)
+    - result for gallery.html
+      ![HTML results menu](documentation/validation/gallerypagehtmlvalidation.png)
+    - result for signup.html
+      ![HTML results contact](documentation/validation/signuppagehtmlvalidation.png)
 
 
 
