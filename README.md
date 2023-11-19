@@ -6,8 +6,16 @@ This site represents a volunteer group that has come together to provide a bette
 
 ![responsive](documentation/imagesreadme/iamresponsive.png)
 
+
 ## Index – Table of Contents
 * [User Experience (UX)](#user-experience-ux) 
+* [Features](#features)
+* [Design](#design)
+* [Used Languages](#used-languages)
+* [Testing](#testing)
+* [Deployment](#deployment)
+* [Credits](#credits)
+ 
  
  ## User Experience (UX)
 
