@@ -11,7 +11,7 @@ This site represents a volunteer group that has come together to provide a bette
 * [User Experience (UX)](#user-experience-ux) 
 * [Features](#features)
 * [Design](#design)
-* [Used Languages](#used-languages)
+* [Used Languages, Programmes and Sites](#used-languages-programmes-sites)
 * [Testing](#testing)
 * [Deployment](#deployment)
 * [Credits](#credits)
@@ -85,10 +85,13 @@ Cards looking for Galaxy Fold
     -   Josefin Sans is imported from Google Fonts. It has gentle modern looking.
 
 
-### Used Languages 
+### Used Languages, Programmes and Sites
 
 -   HTML5
 -   CSS3
+-   Paint3D
+-   ImageOptimizer
+-   Cloud Convert
 
 ## Testing
 
