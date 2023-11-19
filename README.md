@@ -35,21 +35,21 @@ This site represents a volunteer group that has come together to provide a bette
 ![navbar](documentation/imagesreadme/navbar.png)
 Navigation bar's looking except small screens
 
-![navbargalaxyfold](documentation/imagesreadme/navbarfold.png)
+![navbar galaxy fold](documentation/imagesreadme/navbarfold.png)
 Closed and dropped down looking of navigation bar for Galaxy Fold
 
--    __Cards Section__
+-   __Cards Section__
 
-    Cards describes community and services. For large screens, it has 1.04 times bigger scaling features.
+    - Cards describes community and services. For large screens, it has 1.04 times bigger scaling features.
 
 ![cards](documentation/imagesreadme/cards.png)
 
-![cards](documentation/imagesreadme/cardsgalaxyfold.png)
+![cards for galaxy fold](documentation/imagesreadme/cardsgalaxyfold.png)
     Cards looking for Galaxy Fold
 
--    __Footer__
+-   __Footer__
 
-    Footer has social media accounts link and also has donation link. It is responsive for all screen sizes.
+    - Footer has social media accounts link and also has donation link. It is responsive for all screen sizes.
 
 ![footer](documentation/imagesreadme/footer.png)
 
