@@ -2,7 +2,7 @@
 
 [Click here to check live project](https://aksurcos.github.io/stray-animals-rescue//)
 
-This site represents a volunteer group that has come together to provide a better life for animals living on the streets, together with the services they provide. 
+This site represents a volunteer group that has come together to provide a better life for animals living on the streets, and also represents their services, gallery and joining way to them. 
 
 ![responsive](documentation/imagesreadme/iamresponsive.png)
 
