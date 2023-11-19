@@ -110,7 +110,7 @@ Cards looking for Galaxy Fold
     
 ## Deployment
 
-### How project is deployed
+### How the project is deployed
 - On the GitHub repository's own page, click its own "Settings" tab 
 - Choose Pages from the left hand menu 
 - On Pages, under "Build and deployment" section, brach needs to be set as "main" and folder needs to be set as "root"
@@ -121,7 +121,7 @@ Cards looking for Galaxy Fold
 ### Images 
 - [Pexels](https://www.pexels.com/)
 - It is originally svg codes but the bug occured when placing social media and donation icons, that's why it is used as image. [Footer Image](https://getwaves.io/) 
-- The icons which are with cards section's h3 elements imported from [Font Awesome](https://fontawesome.com/)
+- The icons which are with cards section's h3 elements and on the footer are imported from [Font Awesome](https://fontawesome.com/)
 
 ### Codes   
 - Code Institute Love Running Projects for field sets for signup.html
