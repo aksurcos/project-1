@@ -182,7 +182,7 @@ main {
 
 #signingup {
     width: 100%;
-    height: 90vh;
+    height: 85vh;
     background-color: rgb(220, 59, 54, 0.5);
     text-align: left;
     padding: 8% 7%;
@@ -229,7 +229,7 @@ textarea {
 }
 
 
-.buttons{
+.button{
     background-color: #de5046 ;
     padding: 4px 4px;
     border-radius: 12px;
@@ -423,7 +423,7 @@ textarea {
     #signingup {
         margin-top: 4em;
     }
-    .buttons:hover {
+    .button:hover {
         background-color: #9c0f05;    
     }
 
