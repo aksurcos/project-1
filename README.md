@@ -24,5 +24,21 @@ This site represents a volunteer group that has come together to provide a bette
     -   #### C. Frequent User
          As a frequent user, I would like join this team easily.
 
-         
+## Features
+
+### Existing Features
+
+-   __Navigation Bar__
+
+    - Navigation bar has simple heading of site, it also inclues Home page, Gallery and Join Us links. It is responsive on different sizes screens. On small screens (such as Galaxy Fold), it will become an icon to drop-down.
+
+![navbar](documentation/imagesreadme/navbar.png)
+
+![navbar](documentation/imagesreadme/navbarfold.png)
+
+
+
+
+     
+       
      
