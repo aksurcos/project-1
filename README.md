@@ -51,7 +51,7 @@ Cards looking for Galaxy Fold
 
     - This section has sort of application to join and feedback features.
 
-![join us section](documentation/imagesreadme/fieldsets.png)
+![join us section](documentation/imagesreadme/fieldsets1.png)
 
 
 -   __Footer__
