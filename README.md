@@ -127,8 +127,9 @@ Cards looking for Galaxy Fold
 ### Deployment steps
 - On the GitHub repository's own page, click its own "Settings" tab 
 - Choose Pages from the left hand menu 
-- On Pages, under "Build and deployment" section, brach needs to be set as "main" and folder needs to be set as "root"
+- On Pages, below "Build and deployment" section, branch needs to be set as "main" and folder needs to be set as "root"
 - After this settings, the project will be automatically deployed.
+- On the GitHub repository's own page, it will be ready on the right side below Deployments section.
     
 ## Credits
 
@@ -145,7 +146,7 @@ Cards looking for Galaxy Fold
 ### Inspration and Thanking
 - Thank you to my mentor Brian Macharia who was so helpful with critical advices as a professional.
 - Thank you to my dear spouse Mert Can Coskuner who helped me to understand git commands.
-- Thank you to all helpful Slack Community.
+- Thank you to all helpful Slack Code Institute Community.
   
 
 
